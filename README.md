@@ -1,7 +1,5 @@
 # family-metrics
 
-**Support:** [Issues & feedback](https://github.com/turlamai/family-metrics/issues) · [Development policy](https://github.com/turlamai/turlamai.github.io/blob/master/PORTFOLIO.md)
-
 **English** · [中文](README.zh-CN.md)
 
 Daily snapshots of release download counts across the TurLamAI

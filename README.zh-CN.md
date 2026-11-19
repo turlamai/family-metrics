@@ -1,5 +1,7 @@
 # family-metrics
 
+**支持：**[问题与反馈](https://github.com/turlamai/family-metrics/issues) · [当前交付策略](https://github.com/turlamai/turlamai.github.io/blob/master/PORTFOLIO.zh-CN.md)
+
 [English](README.md) · **中文**
 
 每日快照记录 TurLamAI 产品家族各仓库的发布下载量，并附带一个零依赖的仪表盘用于读取这些数据。

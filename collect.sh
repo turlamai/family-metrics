@@ -11,7 +11,7 @@
 set -euo pipefail
 
 ORG=turlamai
-REPOS="fulcrum taskly threadly movebit syncpilot booklight podlens autarx keyward regexmate keepsake gptp-studio flashpilot moonbeam hackdigest pitboard yinwang-archive"
+REPOS="fulcrum taskly threadly movebit syncpilot booklight podlens autarx keyward keepsake gptp-studio flashpilot moonbeam hackdigest pitboard yinwang-archive"
 
 date=$(date -u +%F)
 mkdir -p data
